@@ -1,0 +1,53 @@
+name: CTO Executive Intelligence Engine
+
+# Free serverless cron. Runs once daily at 05:00 UTC.
+# main.py auto-detects Sunday vs weekday and picks the right modules.
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write          # needed to commit the local dedup ledger back
+
+concurrency:
+  group: cto-engine
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          SEMANTIC_SCHOLAR_API_KEY: ${{ secrets.SEMANTIC_SCHOLAR_API_KEY }}
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
+          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
+        run: python src/main.py
+
+      - name: Commit dedup ledger
+        run: |
+          git config user.name "cto-engine-bot"
+          git config user.email "actions@github.com"
+          git add archive/ || true
+          if git diff --staged --quiet; then
+            echo "No ledger changes to commit."
+          else
+            git commit -m "chore: update digest dedup ledger [skip ci]"
+            git push
+          fi

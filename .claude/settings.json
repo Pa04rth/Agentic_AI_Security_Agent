@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import notion_client, importlib.metadata as m; print\\('notion-client', m.version\\('notion-client'\\)\\)\")",
+      "Bash(python -c \"from notion_client.client import ClientOptions; import inspect; print\\(inspect.getsource\\(ClientOptions\\)\\)\")",
+      "PowerShell(python -m pip install \"notion-client==2.2.1\" 2>&1)"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+google-genai>=1.0.0
+# Pinned: 2.4+ migrated to Notion's "data source" API model (no top-level
+# `properties` on databases.create, no databases.query), which this codebase
+# does not use. 2.2.1 keeps the database_id-based model the code relies on.
+notion-client==2.2.1
+requests>=2.31.0
+feedparser>=6.0.10
+python-dotenv>=1.0.0
