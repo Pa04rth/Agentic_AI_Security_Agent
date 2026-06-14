@@ -1,9 +1,13 @@
 """
 setup_notion.py  —  ONE-TIME SETUP
 ==================================
-Auto-creates the 4 Notion databases with the exact PRD schema, seeds sensible
-defaults, and writes their IDs to config/notion_ids.json so the pipeline can
-find them.
+Auto-creates the 4 Notion databases with the exact PRD schema, seeds operational
+defaults (Control Variables + Time Tracker only), and writes their IDs to
+config/notion_ids.json so the pipeline can find them.
+
+NOTE: The Source Directory (DB2) is created EMPTY on purpose. You decide its
+contents — topics, YouTube channel IDs, and RSS feeds — directly in Notion. The
+pipeline only ever READS the Source Directory; it never writes to it.
 
 Prereqs (see README "Notion setup"):
   1) Create an internal integration at https://www.notion.so/my-integrations
@@ -33,37 +37,6 @@ from notion_client import Client
 
 _ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 _IDS_FILE = os.path.join(_ROOT, "config", "notion_ids.json")
-
-
-# ---- Default seed content (you can edit all of this later inside Notion) ----
-DEFAULT_TOPICS = [
-    "Transformer architecture",
-    "Large language model security",
-    "LLM prompt injection",
-    "Agentic AI systems",
-    "Retrieval augmented generation",
-    "AI red teaming",
-    "Model alignment safety",
-    "Adversarial machine learning",
-]
-
-DEFAULT_YOUTUBE = [
-    ("Yannic Kilcher", "UCZHmQk67mSJgfCCTn7xBfew"),
-    ("Two Minute Papers", "UCbfYPyITQ-7l4upoX8nvctg"),
-    ("3Blue1Brown", "UCYO_jab_esuFRV4b17AJtAw"),
-    ("AI Explained", "UCNJ1Ymd5yFuUPtn21xtRbbw"),
-]
-
-DEFAULT_RSS = [
-    ("OpenAI Blog", "https://openai.com/blog/rss.xml"),
-    ("Google DeepMind Blog", "https://deepmind.google/blog/rss.xml"),
-    ("Anthropic News", "https://www.anthropic.com/news/rss.xml"),
-    ("Simon Willison (LLM/AI)", "https://simonwillison.net/atom/everything/"),
-    ("BAIR Blog (Berkeley AI)", "https://bair.berkeley.edu/blog/feed.xml"),
-    ("arXiv cs.CR (Security)", "http://export.arxiv.org/rss/cs.CR"),
-    ("arXiv cs.CL (NLP)", "http://export.arxiv.org/rss/cs.CL"),
-    ("The Gradient", "https://thegradient.pub/rss/"),
-]
 
 
 def _parent(page_id):
@@ -145,7 +118,10 @@ def create_databases(notion, parent_page):
 
 
 def seed(notion, ids):
-    print("Seeding default records...")
+    """Seed ONLY the operational databases the pipeline must mutate at runtime
+    (Control Variables + Time Tracker). The Source Directory (DB2) is left empty
+    on purpose — you own its contents and edit them directly in Notion."""
+    print("Seeding operational defaults (Control Variables + Time Tracker)...")
 
     # DB1: Control Variables
     for name, val in [
@@ -167,23 +143,11 @@ def seed(notion, ids):
             "Current Month": {"number": 1},
         })
 
-    # DB2: Source Directory
-    def add_source(name, type_name, value):
-        props = {
-            "Source Name": {"title": [{"text": {"content": name}}]},
-            "Type": {"select": {"name": type_name}},
-            "Status": {"checkbox": True},
-        }
-        if value:
-            props["URL / ID"] = {"rich_text": [{"text": {"content": value}}]}
-        notion.pages.create(parent={"database_id": ids["source_directory"]}, properties=props)
-
-    for t in DEFAULT_TOPICS:
-        add_source(t, "Topic", "")
-    for name, cid in DEFAULT_YOUTUBE:
-        add_source(name, "YouTube Channel ID", cid)
-    for name, url in DEFAULT_RSS:
-        add_source(name, "RSS Feed", url)
+    # DB2: Source Directory — intentionally NOT seeded. You decide every Topic,
+    # YouTube Channel ID, and RSS Feed by adding rows in Notion (set Status =
+    # checked to activate). The pipeline reads this DB but must never write it.
+    print("Source Directory left EMPTY — populate it yourself in Notion "
+          "(Type = Topic / YouTube Channel ID / RSS Feed, Status = checked).")
 
 
 def main():
@@ -208,7 +172,9 @@ def main():
         json.dump(ids, f, indent=2)
 
     print("\nDone! Database IDs written to config/notion_ids.json")
-    print("Open your parent Notion page — you'll see all 4 databases, pre-populated.")
+    print("Open your parent Notion page — you'll see all 4 databases.")
+    print("Next step: open 'The Source Directory' and add your own Topics, "
+          "YouTube Channel IDs, and RSS Feeds (Status = checked to activate).")
     for k, v in ids.items():
         print(f"  {k}: {v}")
 
