@@ -17,7 +17,11 @@ Run locally:
 
 import os
 import argparse
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
+
+# All day-of-week routing is done in IST so "Sunday" means Sunday in India,
+# matching the 05:00 IST schedule (see .github/workflows/daily.yml).
+IST = timezone(timedelta(hours=5, minutes=30))
 
 # Load .env for local runs (GitHub Actions injects env directly).
 try:
@@ -29,8 +33,7 @@ except Exception:
 import notion_manager as db
 from claude_agent import ClaudeAgent
 from fetchers import semantic_scholar, youtube, rss
-import email_manager as archive  # reused only for local dedup ledger + dry-run preview
-import alert_manager as alert
+import email_manager as archive  # dedup ledger, HTML render, and the email digest
 
 
 # ======================================================================
@@ -40,6 +43,10 @@ def run_historical(controls, claude):
     print("[Module 1] Historical pincer engine")
     topics = db.get_active_topics()
     channels = [c["id"] for c in db.get_active_youtube_channels()]
+    print(f"  active sources: {len(topics)} topics, {len(channels)} youtube channels")
+    if not topics:
+        print("  WARNING: no active Topics in 'The Source Directory' "
+              "(add rows with Type=Topic and Status=checked) — 0 papers will be found.")
     yt_key = os.getenv("YOUTUBE_API_KEY")
     ss_key = os.getenv("SEMANTIC_SCHOLAR_API_KEY")
     tracker = db.get_time_tracker()
@@ -105,6 +112,10 @@ def _collect_era_papers(topics, era, target, ss_key, max_rollovers):
 def run_daily_social(controls):
     print("[Module 2] Daily social / industry feed")
     feeds = db.get_active_rss_feeds()
+    print(f"  active sources: {len(feeds)} RSS feeds")
+    if not feeds:
+        print("  WARNING: no active RSS Feeds in 'The Source Directory' "
+              "(add rows with Type=RSS Feed and Status=checked) — 0 items will be found.")
     items = rss.fetch_all_recent(feeds, window_hours=24,
                                  cap=controls["daily_social_target"])
     for it in items:
@@ -130,7 +141,7 @@ def run_sunday_firehose(controls):
 
 
 # ======================================================================
-#  MODULE 4 — Output: dedupe -> write to Notion -> WhatsApp ping
+#  MODULE 4 — Output: dedupe -> write to Notion -> email the digest
 # ======================================================================
 def finalize(sections, dry_run):
     now_iso = datetime.now(timezone.utc).isoformat()
@@ -141,8 +152,15 @@ def finalize(sections, dry_run):
             r.setdefault("read_status", False)
             flat.append(r)
 
+    collected = len(flat)
     flat = archive.dedupe(flat)  # skip anything already pushed in a prior run
     total = len(flat)
+    print(f"  [finalize] {collected} collected -> {total} new after dedup "
+          f"({collected - total} already seen)")
+    if collected == 0:
+        print("  [finalize] WARNING: pipeline collected 0 items. Check that "
+              "'The Source Directory' has rows with Status = checked "
+              "(Topics / RSS Feeds / YouTube Channel IDs).")
     date_str = archive.utc_date_str()
 
     if dry_run:
@@ -157,14 +175,29 @@ def finalize(sections, dry_run):
         print(f"[dry-run] {total} new items. Notion NOT written. Preview: {out}")
         return
 
-    written = db.add_digest_rows(flat, pause=0.15)
-    archive.archive(flat)  # update local seen-ledger so we don't repost
+    written_rows = db.add_digest_rows(flat, pause=0.15)
+    # Only mark rows that were actually written as "seen", so a failed Notion
+    # write is retried next run instead of being silently dropped forever.
+    archive.archive(written_rows)
+    written = len(written_rows)
     print(f"  [notion] wrote {written}/{total} rows to Morning Digest")
+    if total and written == 0:
+        print("  [notion] WARNING: had new items but wrote 0 rows — every "
+              "Notion write failed (check NOTION_API_KEY and that the "
+              "integration is connected to the Morning Digest database).")
 
+    # Completion notification by email (replaces the old WhatsApp ping). The
+    # email carries the full rendered digest, so you get the content even if a
+    # Notion write failed above.
     link = db.digest_deeplink()
-    msg = (f"✅ CTO Intelligence Digest ready — {written} new items for "
-           f"{date_str}. Open Notion: {link}")
-    alert.send_whatsapp(msg)
+    deduped_sections = [(title, [r for r in rows if r in flat])
+                        for title, rows in sections]
+    html = archive.render_digest_html(deduped_sections, date_str)
+    if link:
+        html += (f'<p style="font-size:13px;margin-top:8px;">'
+                 f'Open in Notion: <a href="{link}">{link}</a></p>')
+    subject = f"🧠 CTO Intelligence Digest — {written} new items ({date_str})"
+    archive.send_email(html, subject)
 
 
 # ======================================================================
@@ -179,7 +212,7 @@ def main():
     controls = db.get_control_variables()
     claude = ClaudeAgent()
 
-    weekday = datetime.now(timezone.utc).weekday()  # Mon=0 ... Sun=6
+    weekday = datetime.now(IST).weekday()  # Mon=0 ... Sun=6 (in IST)
     mode = args.mode
     if mode == "auto":
         mode = "sunday" if weekday == 6 else "weekday"

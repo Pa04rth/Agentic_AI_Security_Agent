@@ -35,14 +35,14 @@ Agentic_AI_Security_Agent/
 │   ├── setup_notion.py          # ONE-TIME: auto-creates + seeds the 4 Notion databases
 │   ├── main.py                  # orchestration brain (day-of-week routing)
 │   ├── notion_manager.py        # all Notion reads/writes (the 4 databases)
-│   ├── claude_agent.py          # CTO 3-sentence summaries (Claude API)
-│   ├── alert_manager.py         # WhatsApp completion ping (CallMeBot)
+│   ├── claude_agent.py          # CTO 3-sentence summaries
+│   ├── email_manager.py         # dedup ledger + HTML render + email digest (Gmail SMTP)
 │   └── fetchers/
 │       ├── semantic_scholar.py  # citation-sorted month search
 │       ├── youtube.py           # channel-restricted matchmaker
 │       └── rss.py               # 24h / 7d windowing
 ├── archive/                     # local dedup ledger (so items aren't re-posted)
-├── .github/workflows/daily.yml  # free serverless cron, 05:00 UTC
+├── .github/workflows/daily.yml  # free serverless cron, 05:00 IST (23:30 UTC)
 ├── requirements.txt
 ├── .env.example                 # copy to .env
 └── README.md
@@ -70,7 +70,7 @@ The 4 Notion databases (created for you by the setup script):
    cp .env.example .env        # fill in NOTION_API_KEY + NOTION_PARENT_PAGE_ID
    python src/setup_notion.py
    ```
-   This creates all 4 databases on your page, seeds them with default topics/channels/feeds + targets + 2017/2025 cursors, and writes `config/notion_ids.json`. Open your page — everything's there and editable.
+   This creates all 4 databases on your page, seeds the operational defaults (targets + 2017/2025 cursors), and writes `config/notion_ids.json`. **The Source Directory is created empty on purpose** — you add your own Topics, YouTube Channel IDs, and RSS Feeds in Notion (set each row's `Status` checkbox to activate it). The pipeline only ever *reads* the Source Directory.
 
 > **Commit `config/notion_ids.json`** to your repo so GitHub Actions can find the databases. It contains IDs, not secrets.
 
@@ -80,7 +80,7 @@ The 4 Notion databases (created for you by the setup script):
 
 ```bash
 python src/main.py --dry-run   # builds digest, writes NOTHING to Notion (safe test)
-python src/main.py             # real run: writes to Morning Digest + WhatsApp ping
+python src/main.py             # real run: writes to Morning Digest + emails the digest
 ```
 
 Force a mode regardless of the day:
@@ -97,7 +97,7 @@ python src/main.py --mode sunday    # firehose + daily social
 1. **Notion** — integration secret from https://www.notion.so/my-integrations → `NOTION_API_KEY` (see Notion setup above).
 2. **Claude (Anthropic)** — https://console.anthropic.com/settings/keys → `ANTHROPIC_API_KEY`. Default model `claude-haiku-4-5-20251001` keeps cost well under **$3/month**.
 3. **YouTube Data API v3** — Google Cloud Console → enable "YouTube Data API v3" → create API key → `YOUTUBE_API_KEY`.
-4. **WhatsApp (CallMeBot)** — save **+34 644 51 95 23** as a contact, WhatsApp it `I allow callmebot to send me messages`, it replies with your API key → `CALLMEBOT_APIKEY` + your number (with country code) in `WHATSAPP_PHONE`.
+4. **Email (Gmail App Password)** — on a Gmail account with 2-Step Verification on, create a 16-char App Password at https://myaccount.google.com/apppasswords → put it in `EMAIL_APP_PASSWORD`, your address in `EMAIL_ADDRESS`, and the recipient in `EMAIL_TO`.
 5. **Semantic Scholar** — optional; works keyless. A free key just raises rate limits.
 
 ---
@@ -105,8 +105,8 @@ python src/main.py --mode sunday    # firehose + daily social
 ## Deploy free on GitHub Actions
 
 1. Push this folder to a GitHub repo (including `config/notion_ids.json`).
-2. Repo → **Settings → Secrets and variables → Actions** → add as **Secrets**: `ANTHROPIC_API_KEY`, `CLAUDE_MODEL` (optional), `YOUTUBE_API_KEY`, `SEMANTIC_SCHOLAR_API_KEY` (optional), `NOTION_API_KEY`, `WHATSAPP_PHONE`, `CALLMEBOT_APIKEY`.
-3. The workflow runs daily at **05:00 UTC** and auto-detects Sunday vs. weekday. The month cursors live in Notion now; only the small local dedup ledger is committed back.
+2. Repo → **Settings → Secrets and variables → Actions** → add as **Secrets**: `GEMINI_API_KEY`, `GEMINI_MODEL` (optional), `YOUTUBE_API_KEY`, `SEMANTIC_SCHOLAR_API_KEY` (optional), `NOTION_API_KEY`, `EMAIL_ADDRESS`, `EMAIL_APP_PASSWORD`, `EMAIL_TO`.
+3. The workflow runs daily at **05:00 IST** (cron `30 23 * * *`, i.e. 23:30 UTC) and auto-detects Sunday vs. weekday in IST. The month cursors live in Notion now; only the small local dedup ledger is committed back.
 4. Trigger a test run anytime: repo → **Actions → CTO Executive Intelligence Engine → Run workflow**.
 
 > Adjust the time by editing the `cron` line in `.github/workflows/daily.yml` (it's in UTC).

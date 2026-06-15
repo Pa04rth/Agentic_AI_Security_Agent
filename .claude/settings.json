@@ -3,7 +3,10 @@
     "allow": [
       "Bash(python -c \"import notion_client, importlib.metadata as m; print\\('notion-client', m.version\\('notion-client'\\)\\)\")",
       "Bash(python -c \"from notion_client.client import ClientOptions; import inspect; print\\(inspect.getsource\\(ClientOptions\\)\\)\")",
-      "PowerShell(python -m pip install \"notion-client==2.2.1\" 2>&1)"
+      "PowerShell(python -m pip install \"notion-client==2.2.1\" 2>&1)",
+      "Bash(python -m py_compile src/main.py src/notion_manager.py src/setup_notion.py)",
+      "Bash(python -m py_compile src/main.py)",
+      "Bash(python -m py_compile src/fetchers/semantic_scholar.py)"
     ]
   }
 }

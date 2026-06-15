@@ -47,6 +47,14 @@ def fetch_top_papers(topic, year, month, limit, api_key=None, _retries=3):
     for attempt in range(_retries):
         try:
             resp = requests.get(BULK_URL, params=params, headers=headers, timeout=30)
+            if resp.status_code == 403 and "x-api-key" in headers:
+                # The supplied key is invalid / expired / not yet activated.
+                # The endpoint works keyless (lower rate limit), so drop the key
+                # and retry rather than failing every fetch and emptying the digest.
+                print("  [semantic_scholar] API key rejected (403) — falling back "
+                      "to keyless access. Fix or clear SEMANTIC_SCHOLAR_API_KEY.")
+                headers = {}
+                continue
             if resp.status_code == 429:
                 # Rate limited — back off and retry
                 time.sleep(3 * (attempt + 1))

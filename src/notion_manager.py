@@ -242,21 +242,26 @@ def _row_to_properties(row):
 
 
 def add_digest_rows(rows, pause=0.0):
-    """Create one Notion page per row in the Morning Digest DB."""
+    """Create one Notion page per row in the Morning Digest DB.
+
+    Returns the list of rows that were ACTUALLY written. Rows whose Notion
+    write fails are NOT returned, so the caller can avoid marking them as
+    'seen' in the dedup ledger (otherwise a transient Notion failure would
+    permanently suppress those items and leave the digest empty)."""
     db = ids()["morning_digest"]
-    created = 0
+    written = []
     for row in rows:
         try:
             client().pages.create(
                 parent={"database_id": db},
                 properties=_row_to_properties(row),
             )
-            created += 1
+            written.append(row)
             if pause:
                 time.sleep(pause)
         except Exception as e:
             print(f"  [notion] failed to write '{row.get('title','?')[:50]}': {e}")
-    return created
+    return written
 
 
 def digest_deeplink():

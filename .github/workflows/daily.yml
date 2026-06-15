@@ -1,10 +1,12 @@
 name: CTO Executive Intelligence Engine
 
-# Free serverless cron. Runs once daily at 05:00 UTC.
-# main.py auto-detects Sunday vs weekday and picks the right modules.
+# Free serverless cron. GitHub Actions cron is ALWAYS in UTC.
+# We want 05:00 IST (Asia/Kolkata, UTC+5:30) => 23:30 UTC the previous day.
+# main.py computes the weekday in IST too, so Sunday-vs-weekday routing matches
+# the Indian calendar day (Sunday firehose fires on Sunday IST).
 on:
   schedule:
-    - cron: "0 5 * * *"
+    - cron: "30 23 * * *"
   workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
 
 permissions:
@@ -36,8 +38,9 @@ jobs:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           SEMANTIC_SCHOLAR_API_KEY: ${{ secrets.SEMANTIC_SCHOLAR_API_KEY }}
           NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
-          WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
-          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
+          EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
+          EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
         run: python src/main.py
 
       - name: Commit dedup ledger
