@@ -130,3 +130,15 @@ https://arxiv.org/abs/2606.19349
 https://arxiv.org/abs/2606.19350
 https://arxiv.org/abs/2606.19351
 https://arxiv.org/abs/2606.19352
+https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything
+https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything
+https://openai.com/index/introducing-life-sci-bench
+https://simonwillison.net/2026/Jun/16/datasette/#atom-everything
+https://deepmind.google/blog/securing-the-future-of-ai-agents/
+https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything
+https://openai.com/index/deployment-simulation
+https://simonwillison.net/2026/Jun/15/datasette-apps-2/#atom-everything
+https://simonwillison.net/2026/Jun/15/datasette-apps/#atom-everything
+https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything
+https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything
+https://openai.com/index/introducing-openai-partner-network
