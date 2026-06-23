@@ -146,3 +146,7 @@ https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything
 https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything
 https://openai.com/index/samsung-electronics-chatgpt-codex-deployment
 https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything
+https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything
+https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything
+https://openai.com/index/patch-the-planet
+https://openai.com/index/daybreak-securing-the-world
