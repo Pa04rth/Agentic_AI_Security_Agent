@@ -150,3 +150,7 @@ https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-e
 https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything
 https://openai.com/index/patch-the-planet
 https://openai.com/index/daybreak-securing-the-world
+https://simonwillison.net/2026/Jun/23/datasette/#atom-everything
+https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything
+https://openai.com/index/gpt-5-immunology-mystery
+https://openai.com/index/helping-build-shared-standards-for-advanced-ai
