@@ -184,3 +184,6 @@ https://arxiv.org/abs/2606.26100
 https://arxiv.org/abs/2606.26101
 https://arxiv.org/abs/2606.26102
 https://arxiv.org/abs/2606.26103
+https://openai.com/index/how-agents-are-transforming-work
+https://openai.com/index/omio
+https://openai.com/index/codex-maxxing-long-running-work
