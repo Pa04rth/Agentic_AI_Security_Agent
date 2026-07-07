@@ -273,3 +273,5 @@ https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug
 https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything
 https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything
 https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything
+https://simonwillison.net/2026/Jul/6/hy3/#atom-everything
+https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything
