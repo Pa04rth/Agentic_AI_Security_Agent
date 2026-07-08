@@ -275,3 +275,13 @@ https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#a
 https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything
 https://simonwillison.net/2026/Jul/6/hy3/#atom-everything
 https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything
+https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything
+https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything
+https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything
+https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything
+http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/
+https://simonwillison.net/2026/Jul/7/sqlite-utils-2/#atom-everything
+https://arxiv.org/abs/2607.02668
+https://arxiv.org/abs/2607.02734
+https://arxiv.org/abs/2607.02757
+https://arxiv.org/abs/2607.02763
