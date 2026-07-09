@@ -285,3 +285,13 @@ https://arxiv.org/abs/2607.02668
 https://arxiv.org/abs/2607.02734
 https://arxiv.org/abs/2607.02757
 https://arxiv.org/abs/2607.02763
+https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything
+https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything
+https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything
+https://openai.com/index/government-national-security-partnerships
+https://openai.com/index/separating-signal-from-noise-coding-evaluations
+https://openai.com/index/k-12-educators-practical-skills
+https://arxiv.org/abs/2607.05398
+https://arxiv.org/abs/2607.05399
+https://arxiv.org/abs/2607.05416
+https://arxiv.org/abs/2607.05545
