@@ -305,3 +305,13 @@ https://openai.com/index/bio-bug-bounty
 https://openai.com/index/gpt-5-6
 https://arxiv.org/abs/2607.06611
 https://arxiv.org/abs/2607.06641
+https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything
+https://openai.com/index/deutsche-telekom
+https://arxiv.org/abs/2607.07772
+https://arxiv.org/abs/2607.07779
+https://arxiv.org/abs/2607.07820
+https://arxiv.org/abs/2607.07891
+https://arxiv.org/abs/2607.07895
+https://arxiv.org/abs/2607.07937
+https://arxiv.org/abs/2607.07974
+https://arxiv.org/abs/2607.07976
