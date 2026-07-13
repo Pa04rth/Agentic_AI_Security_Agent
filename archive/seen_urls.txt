@@ -349,3 +349,12 @@ https://arxiv.org/abs/2607.08601
 https://arxiv.org/abs/2607.08642
 https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything
 https://arxiv.org/abs/2607.07985
+https://www.semanticscholar.org/paper/b4df354db88a70183a64dbc9e56cf14e7669a6c0
+https://www.semanticscholar.org/paper/ac4dafdef1d2b685b7f28a11837414573d39ff4e
+https://www.semanticscholar.org/paper/8257f34c0cb0c69ccf7df4d2a9423c42a8f4b052
+https://www.semanticscholar.org/paper/85f6d33a835c67cec68c693cfdfb666ddd47e0b2
+https://www.semanticscholar.org/paper/f716a18b462826004899010dfc30947f9c01ef90
+https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything
+https://simonwillison.net/2026/Jul/12/shot-scraper/#atom-everything
+https://simonwillison.net/2026/Jul/12/bump/#atom-everything
+https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything
