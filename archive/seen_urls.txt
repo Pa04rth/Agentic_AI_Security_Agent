@@ -375,3 +375,13 @@ https://arxiv.org/abs/2607.09121
 https://arxiv.org/abs/2607.09204
 https://arxiv.org/abs/2607.09291
 https://arxiv.org/abs/2607.09306
+https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything
+https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything
+https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything
+https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything
+https://simonwillison.net/2026/Jul/14/datasette/#atom-everything
+https://openai.com/index/managing-ai-investments-in-agentic-era
+https://arxiv.org/abs/2607.09880
+https://arxiv.org/abs/2607.09885
+https://arxiv.org/abs/2607.09908
+https://arxiv.org/abs/2607.09921
