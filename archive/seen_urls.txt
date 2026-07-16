@@ -385,3 +385,13 @@ https://arxiv.org/abs/2607.09880
 https://arxiv.org/abs/2607.09885
 https://arxiv.org/abs/2607.09908
 https://arxiv.org/abs/2607.09921
+https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything
+https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything
+https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything
+https://openai.com/index/advancing-ai-safety-through-state-and-federal-action
+https://openai.com/index/unlocking-self-improvement-gpt-red
+https://arxiv.org/abs/2607.11889
+https://arxiv.org/abs/2607.11891
+https://arxiv.org/abs/2607.11892
+https://arxiv.org/abs/2607.11893
+https://arxiv.org/abs/2607.11894
