@@ -395,3 +395,11 @@ https://arxiv.org/abs/2607.11891
 https://arxiv.org/abs/2607.11892
 https://arxiv.org/abs/2607.11893
 https://arxiv.org/abs/2607.11894
+https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything
+https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything
+https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything
+https://openai.com/index/why-teens-deserve-access-safe-ai
+https://simonwillison.net/2026/Jul/16/inkling/#atom-everything
+https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything
+https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything
+https://deepmind.google/blog/our-approach-to-bioresilience/
