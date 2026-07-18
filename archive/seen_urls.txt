@@ -403,3 +403,13 @@ https://simonwillison.net/2026/Jul/16/inkling/#atom-everything
 https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything
 https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything
 https://deepmind.google/blog/our-approach-to-bioresilience/
+https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything
+https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything
+https://openai.com/index/a-scorecard-for-the-ai-age
+https://arxiv.org/abs/2607.14099
+https://arxiv.org/abs/2607.14100
+https://arxiv.org/abs/2607.14101
+https://arxiv.org/abs/2607.14102
+https://arxiv.org/abs/2607.14103
+https://arxiv.org/abs/2607.14104
+https://arxiv.org/abs/2607.14105
