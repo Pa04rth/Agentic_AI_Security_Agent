@@ -413,3 +413,15 @@ https://arxiv.org/abs/2607.14102
 https://arxiv.org/abs/2607.14103
 https://arxiv.org/abs/2607.14104
 https://arxiv.org/abs/2607.14105
+https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything
+https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything
+https://simonwillison.net/2026/Jul/18/quixote/#atom-everything
+https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything
+https://openai.com/index/cars24
+https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything
+https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
+https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
+https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/
+https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything
+https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything
+https://simonwillison.net/2026/Jul/18/quixote/#atom-everything
