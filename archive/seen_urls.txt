@@ -425,3 +425,6 @@ https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-wit
 https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything
 https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything
 https://simonwillison.net/2026/Jul/18/quixote/#atom-everything
+https://www.semanticscholar.org/paper/20f635b64e7beb0fcf3cc0fec61c42229f7496a1
+https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything
+https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything
