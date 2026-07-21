@@ -428,3 +428,13 @@ https://simonwillison.net/2026/Jul/18/quixote/#atom-everything
 https://www.semanticscholar.org/paper/20f635b64e7beb0fcf3cc0fec61c42229f7496a1
 https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything
 https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything
+https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything
+https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything
+https://openai.com/index/safety-alignment-long-horizon-models
+https://arxiv.org/abs/2607.15380
+https://arxiv.org/abs/2607.15495
+https://arxiv.org/abs/2607.15498
+https://arxiv.org/abs/2607.15544
+https://arxiv.org/abs/2607.15557
+https://arxiv.org/abs/2607.15610
+https://arxiv.org/abs/2607.15648
