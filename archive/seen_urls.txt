@@ -438,3 +438,13 @@ https://arxiv.org/abs/2607.15544
 https://arxiv.org/abs/2607.15557
 https://arxiv.org/abs/2607.15610
 https://arxiv.org/abs/2607.15648
+https://openai.com/index/introducing-chatgpt-small-business-program
+https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/
+https://simonwillison.net/2026/Jul/21/nativ/#atom-everything
+https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything
+https://openai.com/index/hugging-face-model-evaluation-security-incident
+https://arxiv.org/abs/2607.16427
+https://arxiv.org/abs/2607.16431
+https://arxiv.org/abs/2607.16451
+https://arxiv.org/abs/2607.16549
+https://arxiv.org/abs/2607.16603
