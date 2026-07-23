@@ -448,3 +448,13 @@ https://arxiv.org/abs/2607.16431
 https://arxiv.org/abs/2607.16451
 https://arxiv.org/abs/2607.16549
 https://arxiv.org/abs/2607.16603
+https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything
+https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything
+https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything
+https://simonwillison.net/2026/Jul/22/all-the-orchestrions/#atom-everything
+https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/
+https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community
+https://openai.com/index/how-news-organizations-are-using-ai
+https://openai.com/index/advancing-the-next-era-of-national-science
+https://openai.com/index/introducing-openai-presence
+https://arxiv.org/abs/2607.18321
