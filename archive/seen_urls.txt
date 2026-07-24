@@ -458,3 +458,13 @@ https://openai.com/index/how-news-organizations-are-using-ai
 https://openai.com/index/advancing-the-next-era-of-national-science
 https://openai.com/index/introducing-openai-presence
 https://arxiv.org/abs/2607.18321
+https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything
+https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything
+https://arxiv.org/abs/2607.19361
+https://arxiv.org/abs/2607.19523
+https://arxiv.org/abs/2607.19573
+https://arxiv.org/abs/2607.19604
+https://arxiv.org/abs/2607.19608
+https://arxiv.org/abs/2607.19629
+https://arxiv.org/abs/2607.19678
+https://arxiv.org/abs/2607.19686
