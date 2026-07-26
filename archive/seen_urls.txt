@@ -498,3 +498,10 @@ https://arxiv.org/abs/2607.20429
 https://arxiv.org/abs/2607.20430
 https://arxiv.org/abs/2607.20431
 https://arxiv.org/abs/2607.20432
+https://simonwillison.net/2026/Jul/25/ruff/#atom-everything
+https://openai.com/index/health-in-chatgpt
+https://openai.com/index/ntt-data
+https://simonwillison.net/2026/Jul/21/sighting-383713864/#atom-everything
+https://openai.com/index/david-velez-robin-vince-join-openai-boards
+https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything
+https://simonwillison.net/2026/Jul/25/ruff/#atom-everything
