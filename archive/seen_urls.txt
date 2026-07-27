@@ -505,3 +505,9 @@ https://simonwillison.net/2026/Jul/21/sighting-383713864/#atom-everything
 https://openai.com/index/david-velez-robin-vince-join-openai-boards
 https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything
 https://simonwillison.net/2026/Jul/25/ruff/#atom-everything
+https://www.semanticscholar.org/paper/b1a0d0da2c29829766b357bb31fb13d19581329a
+https://www.semanticscholar.org/paper/a32696d12a5e0be7f30d964180c6330d992649dd
+https://www.semanticscholar.org/paper/adf9931a4189bba9d51c048edfef262282443f97
+https://www.semanticscholar.org/paper/8f1f19bfddf103e4e3ac74610f84d944496406b3
+https://www.semanticscholar.org/paper/ebecb160ee5555317ef0078c7caada22d9ee1c1d
+https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything
