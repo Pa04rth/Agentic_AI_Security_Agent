@@ -511,3 +511,14 @@ https://www.semanticscholar.org/paper/adf9931a4189bba9d51c048edfef262282443f97
 https://www.semanticscholar.org/paper/8f1f19bfddf103e4e3ac74610f84d944496406b3
 https://www.semanticscholar.org/paper/ebecb160ee5555317ef0078c7caada22d9ee1c1d
 https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything
+https://www.semanticscholar.org/paper/760c25e8b44d6bc1a4107c5be219bd0af0475127
+https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything
+https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything
+https://arxiv.org/abs/2607.21619
+https://arxiv.org/abs/2607.21632
+https://arxiv.org/abs/2607.21685
+https://arxiv.org/abs/2607.21758
+https://arxiv.org/abs/2607.21774
+https://arxiv.org/abs/2607.21780
+https://arxiv.org/abs/2607.21799
+https://arxiv.org/abs/2607.21861
