@@ -522,3 +522,16 @@ https://arxiv.org/abs/2607.21774
 https://arxiv.org/abs/2607.21780
 https://arxiv.org/abs/2607.21799
 https://arxiv.org/abs/2607.21861
+https://www.semanticscholar.org/paper/fc9c52f55ffe0e860b1bb4222fe86cce60c05551
+https://www.semanticscholar.org/paper/4c679b0a6005e3bc4fdcfff3cffc6e707f8fadef
+https://www.semanticscholar.org/paper/bf4ac665ca46a2788eb8b5fb843ee9c8d58540ee
+https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything
+https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything
+https://simonwillison.net/2026/Jul/28/uv/#atom-everything
+https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything
+https://openai.com/index/scientific-computing-agentic-ai
+https://arxiv.org/abs/2607.22546
+https://arxiv.org/abs/2607.22552
+https://arxiv.org/abs/2607.22553
+https://arxiv.org/abs/2607.22622
+https://arxiv.org/abs/2607.22657
