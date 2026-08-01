@@ -563,3 +563,13 @@ https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-u
 https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6
 https://arxiv.org/abs/2607.26060
 https://arxiv.org/abs/2607.26066
+https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything
+https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything
+https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything
+https://simonwillison.net/2026/Jul/31/smevals/#atom-everything
+https://openai.com/index/advancing-responsible-ai-across-europe
+https://openai.com/index/building-abundant-intelligence
+https://openai.com/index/unive
+https://arxiv.org/abs/2607.27210
+https://arxiv.org/abs/2607.27228
+https://arxiv.org/abs/2607.27232
