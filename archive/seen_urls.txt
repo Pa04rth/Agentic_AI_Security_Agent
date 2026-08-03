@@ -588,3 +588,6 @@ https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to
 https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything
 https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything
 https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything
+https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything
+https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything
+https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything
