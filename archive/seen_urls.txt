@@ -591,3 +591,13 @@ https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everythin
 https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything
 https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything
 https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything
+https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything
+https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything
+https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything
+https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything
+https://openai.com/index/continuous-voice-interaction-with-gpt-live
+https://arxiv.org/abs/2607.28634
+https://arxiv.org/abs/2607.28635
+https://arxiv.org/abs/2607.28636
+https://arxiv.org/abs/2607.28637
+https://arxiv.org/abs/2607.28638
