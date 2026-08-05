@@ -601,3 +601,13 @@ https://arxiv.org/abs/2607.28635
 https://arxiv.org/abs/2607.28636
 https://arxiv.org/abs/2607.28637
 https://arxiv.org/abs/2607.28638
+https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything
+https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything
+https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything
+https://openai.com/index/third-party-cyber-evaluations-involving-openai-models
+https://simonwillison.net/2026/Aug/4/llm/#atom-everything
+https://arxiv.org/abs/2608.00004
+https://arxiv.org/abs/2608.00005
+https://arxiv.org/abs/2608.00007
+https://arxiv.org/abs/2608.00009
+https://arxiv.org/abs/2608.00011
