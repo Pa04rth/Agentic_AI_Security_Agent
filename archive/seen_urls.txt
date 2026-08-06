@@ -611,3 +611,13 @@ https://arxiv.org/abs/2608.00005
 https://arxiv.org/abs/2608.00007
 https://arxiv.org/abs/2608.00009
 https://arxiv.org/abs/2608.00011
+https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything
+https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything
+https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything
+https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything
+https://arxiv.org/abs/2608.02609
+https://arxiv.org/abs/2608.02612
+https://arxiv.org/abs/2608.02613
+https://arxiv.org/abs/2608.02615
+https://arxiv.org/abs/2608.02616
+https://arxiv.org/abs/2608.02617
