@@ -621,3 +621,15 @@ https://arxiv.org/abs/2608.02613
 https://arxiv.org/abs/2608.02615
 https://arxiv.org/abs/2608.02616
 https://arxiv.org/abs/2608.02617
+https://www.semanticscholar.org/paper/b27a8968a51c5c1ab30fb8c54ae3a3453db25e1a
+https://www.semanticscholar.org/paper/c188c829081eae278e4b5f1b2fa90d853bc37fb1
+https://simonwillison.net/2026/Aug/6/datasette/#atom-everything
+https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything
+https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything
+https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/
+https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt
+https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai
+https://arxiv.org/abs/2608.04015
+https://arxiv.org/abs/2608.04021
+https://arxiv.org/abs/2608.04037
+https://arxiv.org/abs/2608.04056
