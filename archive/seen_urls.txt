@@ -681,3 +681,7 @@ https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything
 https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything
 https://arxiv.org/abs/2608.05157
 https://arxiv.org/abs/2608.05158
+https://www.semanticscholar.org/paper/04b51a75c270a8d6cf0d67f8cc3baf69622fc7e8
+https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything
+https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything
+https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything
