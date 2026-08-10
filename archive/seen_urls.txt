@@ -685,3 +685,13 @@ https://www.semanticscholar.org/paper/04b51a75c270a8d6cf0d67f8cc3baf69622fc7e8
 https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything
 https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything
 https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything
+https://openai.com/index/building-an-ai-native-finance-function
+https://openai.com/index/responsible-ai-infrastructure-texas
+https://openai.com/index/model-ml
+https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows
+https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands
+https://arxiv.org/abs/2608.06396
+https://arxiv.org/abs/2608.06409
+https://arxiv.org/abs/2608.06425
+https://arxiv.org/abs/2608.06429
+https://arxiv.org/abs/2608.06485
