@@ -695,3 +695,14 @@ https://arxiv.org/abs/2608.06409
 https://arxiv.org/abs/2608.06425
 https://arxiv.org/abs/2608.06429
 https://arxiv.org/abs/2608.06485
+https://www.semanticscholar.org/paper/3546d029ae83ba06a36410a1eea6c99e0d8001fb
+https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything
+https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything
+https://openai.com/index/testing-ads-in-chatgpt
+https://openai.com/index/daybreak-models-are-now-available-on-aws
+https://arxiv.org/abs/2608.07525
+https://arxiv.org/abs/2608.07527
+https://arxiv.org/abs/2608.07529
+https://arxiv.org/abs/2608.07531
+https://arxiv.org/abs/2608.07594
+https://arxiv.org/abs/2608.07629
