@@ -756,3 +756,7 @@ https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/
 https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/
 https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/
 https://simonwillison.net/2026/Aug/15/sighting-391300422/
+https://www.semanticscholar.org/paper/1c9bcfc9cdc00223df43dc6a1fa1a2621d151f35
+https://www.semanticscholar.org/paper/cc7a9701833cf982f6cc28957b604357e53248b8
+https://simonwillison.net/2026/Aug/16/qwen-38-27b/
+https://simonwillison.net/2026/Aug/16/dario-amodei/
