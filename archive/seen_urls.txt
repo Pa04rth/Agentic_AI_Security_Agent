@@ -760,3 +760,13 @@ https://www.semanticscholar.org/paper/1c9bcfc9cdc00223df43dc6a1fa1a2621d151f35
 https://www.semanticscholar.org/paper/cc7a9701833cf982f6cc28957b604357e53248b8
 https://simonwillison.net/2026/Aug/16/qwen-38-27b/
 https://simonwillison.net/2026/Aug/16/dario-amodei/
+https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/
+https://openai.com/index/the-defenders-window
+https://openai.com/index/openai-joins-ports-pike-project
+https://arxiv.org/abs/2608.13568
+https://arxiv.org/abs/2608.13570
+https://arxiv.org/abs/2608.13571
+https://arxiv.org/abs/2608.13578
+https://arxiv.org/abs/2608.13580
+https://arxiv.org/abs/2608.13588
+https://arxiv.org/abs/2608.13624
