@@ -801,3 +801,13 @@ https://arxiv.org/abs/2608.18087
 https://arxiv.org/abs/2608.18089
 https://arxiv.org/abs/2608.18090
 https://arxiv.org/abs/2608.18091
+https://simonwillison.net/2026/Aug/21/llm/
+https://simonwillison.net/2026/Aug/21/llm-openrouter/
+https://simonwillison.net/2026/Aug/21/stop-making-tuis/
+https://simonwillison.net/2026/Aug/21/matt-webb/
+https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/
+https://arxiv.org/abs/2608.19199
+https://arxiv.org/abs/2608.19200
+https://arxiv.org/abs/2608.19201
+https://arxiv.org/abs/2608.19203
+https://arxiv.org/abs/2608.19206
