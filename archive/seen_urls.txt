@@ -811,3 +811,16 @@ https://arxiv.org/abs/2608.19200
 https://arxiv.org/abs/2608.19201
 https://arxiv.org/abs/2608.19203
 https://arxiv.org/abs/2608.19206
+https://simonwillison.net/2026/Aug/22/linus-torvalds/
+https://simonwillison.net/2026/Aug/22/llm/
+https://simonwillison.net/2026/Aug/22/more-than-just-code-review/
+https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/
+https://openai.com/index/stampli
+https://openai.com/index/chatgpt-ads-expands-across-europe
+https://openai.com/index/nvidia/chatgpt-work
+https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/
+https://openai.com/index/new-policy-ideas-for-the-intelligence-age
+https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/
+https://simonwillison.net/2026/Aug/22/linus-torvalds/
+https://simonwillison.net/2026/Aug/22/llm/
+https://simonwillison.net/2026/Aug/22/more-than-just-code-review/
