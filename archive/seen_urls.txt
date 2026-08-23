@@ -824,3 +824,5 @@ https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/
 https://simonwillison.net/2026/Aug/22/linus-torvalds/
 https://simonwillison.net/2026/Aug/22/llm/
 https://simonwillison.net/2026/Aug/22/more-than-just-code-review/
+https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/
+https://simonwillison.net/2026/Aug/23/drew-breunig/
