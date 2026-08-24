@@ -826,3 +826,13 @@ https://simonwillison.net/2026/Aug/22/llm/
 https://simonwillison.net/2026/Aug/22/more-than-just-code-review/
 https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/
 https://simonwillison.net/2026/Aug/23/drew-breunig/
+https://simonwillison.net/2026/Aug/24/llm-anthropic/
+https://openai.com/index/gpt-5-6-in-kiro
+https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/
+https://arxiv.org/abs/2608.20344
+https://arxiv.org/abs/2608.20345
+https://arxiv.org/abs/2608.20346
+https://arxiv.org/abs/2608.20347
+https://arxiv.org/abs/2608.20348
+https://arxiv.org/abs/2608.20349
+https://arxiv.org/abs/2608.20350
