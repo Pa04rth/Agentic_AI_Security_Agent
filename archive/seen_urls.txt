@@ -866,3 +866,5 @@ https://arxiv.org/abs/2608.26124
 https://arxiv.org/abs/2608.26125
 https://arxiv.org/abs/2608.26126
 https://arxiv.org/abs/2608.26129
+https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/
+https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
