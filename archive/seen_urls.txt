@@ -885,3 +885,4 @@ https://openai.com/index/loveholidays
 https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia
 https://openai.com/index/introducing-admin-plugin
 https://simonwillison.net/2026/Aug/29/hy4/
+https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/
