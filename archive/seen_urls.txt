@@ -886,3 +886,13 @@ https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russ
 https://openai.com/index/introducing-admin-plugin
 https://simonwillison.net/2026/Aug/29/hy4/
 https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/
+https://simonwillison.net/2026/Aug/31/introducing-wrapture/
+https://simonwillison.net/2026/Aug/31/andrew-digby/
+https://openai.com/index/polimill
+https://arxiv.org/abs/2608.27460
+https://arxiv.org/abs/2608.27461
+https://arxiv.org/abs/2608.27462
+https://arxiv.org/abs/2608.27465
+https://arxiv.org/abs/2608.27466
+https://arxiv.org/abs/2608.27467
+https://arxiv.org/abs/2608.27470
