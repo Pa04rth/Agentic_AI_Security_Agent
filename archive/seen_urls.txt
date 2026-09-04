@@ -916,3 +916,17 @@ https://arxiv.org/abs/2609.00014
 https://arxiv.org/abs/2609.00038
 https://arxiv.org/abs/2609.00048
 https://arxiv.org/abs/2609.00051
+https://www.semanticscholar.org/paper/ce3c2fa54c22340bfe316ee9eb076ce8043ce527
+https://www.semanticscholar.org/paper/b4746593e475324cd3b9f011fade41e201977f4f
+https://www.semanticscholar.org/paper/a6c16882b1ea2a6f849a441e52ea16752fa88682
+https://www.semanticscholar.org/paper/1a6380d38230bce87cfab5bfa4c091876f083c65
+https://simonwillison.net/2026/Sep/3/gpt6-astra/
+https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/
+https://openai.com/index/daybreak-for-frontline-defenders
+https://openai.com/index/legora-financial-statement-review-with-astra
+https://openai.com/index/playco-game-prototyping-with-astra
+https://arxiv.org/abs/2609.01658
+https://arxiv.org/abs/2609.01687
+https://arxiv.org/abs/2609.01737
+https://arxiv.org/abs/2609.01772
+https://arxiv.org/abs/2609.01788
