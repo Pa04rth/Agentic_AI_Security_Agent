@@ -959,3 +959,11 @@ https://openai.com/index/supporting-california-bill-advance-ai-youth-safety
 https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads
 https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/
 https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/
+https://www.semanticscholar.org/paper/2c57c583a45a3e468e1388bd07f3d38713f0186f
+https://www.semanticscholar.org/paper/a02fe342216f26df08cf5de8c5b47291ca45297d
+https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/
+https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/
+https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/
+https://openai.com/index/an-alien-mind
+https://simonwillison.net/2026/Sep/6/zach-kehs/
+https://openai.com/index/research-acceleration-view-inside-openai
