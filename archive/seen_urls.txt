@@ -967,3 +967,17 @@ https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/
 https://openai.com/index/an-alien-mind
 https://simonwillison.net/2026/Sep/6/zach-kehs/
 https://openai.com/index/research-acceleration-view-inside-openai
+https://www.semanticscholar.org/paper/fabfe9f196df8545f0e1258de540bab79f287d40
+https://www.semanticscholar.org/paper/b87659748b6508bd120aec204cfdfce4d0574f56
+https://www.semanticscholar.org/paper/aeb3d8fb149a83d0b9ed76f21dad2a8d60ce698f
+https://www.semanticscholar.org/paper/89a28c83ed6a8b881cb8fef0034ce1d8e38a4154
+https://simonwillison.net/2026/Sep/7/llm/
+https://simonwillison.net/2026/Sep/7/creepy-crawlies/
+https://simonwillison.net/2026/Sep/7/jakub-pachocki/
+https://simonwillison.net/2026/Sep/7/video-compressor/
+https://simonwillison.net/2026/Sep/7/equal-earth/
+https://arxiv.org/abs/2609.04223
+https://arxiv.org/abs/2609.04289
+https://arxiv.org/abs/2609.04290
+https://arxiv.org/abs/2609.04336
+https://arxiv.org/abs/2609.04350
