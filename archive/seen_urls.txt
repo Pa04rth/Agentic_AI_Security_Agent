@@ -1033,3 +1033,17 @@ https://arxiv.org/abs/2609.09166
 https://arxiv.org/abs/2609.09264
 https://arxiv.org/abs/2609.09338
 https://arxiv.org/abs/2609.09349
+https://www.semanticscholar.org/paper/e30f1089e16c07bebe7e951bb27df53f122ee843
+https://www.semanticscholar.org/paper/e8b0d3cba2739563d35347ec849af62e406e39b6
+https://www.semanticscholar.org/paper/512f34906ddaefe885af2e5eec9b2b3b50ffd377
+https://www.semanticscholar.org/paper/d27669c82faf78ea08cceaa0a171b540cccc304d
+https://openai.com/index/perplexity-improving-accuracy-with-astra
+https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/
+https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/
+https://simonwillison.net/2026/Sep/11/boris-cherny/
+https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/
+https://simonwillison.net/2026/Sep/11/hugging-face-security/
+https://openai.com/index/cognition-devin-testing-with-astra
+https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/
+https://simonwillison.net/2026/Sep/11/wrapture/
+https://openai.com/index/scaling-storage-one-billion-users-part-one
