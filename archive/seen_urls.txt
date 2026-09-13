@@ -1047,3 +1047,16 @@ https://openai.com/index/cognition-devin-testing-with-astra
 https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/
 https://simonwillison.net/2026/Sep/11/wrapture/
 https://openai.com/index/scaling-storage-one-billion-users-part-one
+https://simonwillison.net/2026/Sep/12/astra-running-routes/
+https://simonwillison.net/2026/Sep/12/sighting-399708714/
+https://simonwillison.net/2026/Sep/12/paul-ford/
+https://simonwillison.net/2026/Sep/11/datasette-security/
+https://simonwillison.net/2026/Sep/11/datasette-publish-fly/
+https://simonwillison.net/2026/Sep/11/github-to-sqlite/
+https://simonwillison.net/2026/Sep/11/datasette/
+https://simonwillison.net/2026/Sep/11/datasette-2/
+https://openai.com/index/introducing-gpt-live-1-in-the-api
+https://openai.com/index/introducing-the-agents-api
+https://simonwillison.net/2026/Sep/12/astra-running-routes/
+https://simonwillison.net/2026/Sep/12/sighting-399708714/
+https://simonwillison.net/2026/Sep/12/paul-ford/
