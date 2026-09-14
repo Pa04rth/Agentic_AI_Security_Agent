@@ -1060,3 +1060,5 @@ https://openai.com/index/introducing-the-agents-api
 https://simonwillison.net/2026/Sep/12/astra-running-routes/
 https://simonwillison.net/2026/Sep/12/sighting-399708714/
 https://simonwillison.net/2026/Sep/12/paul-ford/
+https://simonwillison.net/2026/Sep/14/commit-rewriter/
+https://simonwillison.net/2026/Sep/13/shot-scraper/
