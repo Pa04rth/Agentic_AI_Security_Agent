@@ -1092,3 +1092,13 @@ https://arxiv.org/abs/2609.13238
 https://arxiv.org/abs/2609.13389
 https://arxiv.org/abs/2609.13413
 https://arxiv.org/abs/2609.13445
+https://simonwillison.net/2026/Sep/16/datasette/
+https://simonwillison.net/2026/Sep/16/datasette-2/
+https://simonwillison.net/2026/Sep/16/one-claude/
+https://openai.com/index/model-misalignment-reporting-framework
+https://simonwillison.net/2026/Sep/16/mustafa-suleyman/
+https://openai.com/index/helping-older-adults-use-ai-in-everyday-life
+https://openai.com/index/reimagining-advertising-with-ai
+https://openai.com/index/how-to-connect-ai-usage-to-business-value
+https://openai.com/index/unlocking-new-ways-of-working
+https://arxiv.org/abs/2609.15990
