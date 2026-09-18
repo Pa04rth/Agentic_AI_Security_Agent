@@ -1102,3 +1102,14 @@ https://openai.com/index/reimagining-advertising-with-ai
 https://openai.com/index/how-to-connect-ai-usage-to-business-value
 https://openai.com/index/unlocking-new-ways-of-working
 https://arxiv.org/abs/2609.15990
+https://www.semanticscholar.org/paper/506decf1ab426be8d3eec7bc31ad78ad2b0a26aa
+https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/
+https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/
+https://simonwillison.net/2026/Sep/17/compaction-summaries/
+https://openai.com/index/cooley-gopublic
+https://arxiv.org/abs/2609.17532
+https://arxiv.org/abs/2609.17534
+https://arxiv.org/abs/2609.17535
+https://arxiv.org/abs/2609.17536
+https://arxiv.org/abs/2609.17537
+https://arxiv.org/abs/2609.17538
