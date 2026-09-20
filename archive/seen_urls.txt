@@ -1123,3 +1123,10 @@ https://arxiv.org/abs/2609.19150
 https://arxiv.org/abs/2609.19151
 https://arxiv.org/abs/2609.19152
 https://arxiv.org/abs/2609.19153
+https://simonwillison.net/2026/Sep/19/datasette-auth-github/
+https://simonwillison.net/2026/Sep/19/sighting-401567341/
+https://openai.com/index/australian-youth-safety-blueprint
+https://openai.com/index/astra-for-law
+https://openai.com/index/hex-gpt-6-astra
+https://simonwillison.net/2026/Sep/19/datasette-auth-github/
+https://simonwillison.net/2026/Sep/19/sighting-401567341/
