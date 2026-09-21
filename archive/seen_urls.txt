@@ -1130,3 +1130,7 @@ https://openai.com/index/astra-for-law
 https://openai.com/index/hex-gpt-6-astra
 https://simonwillison.net/2026/Sep/19/datasette-auth-github/
 https://simonwillison.net/2026/Sep/19/sighting-401567341/
+https://www.semanticscholar.org/paper/962dc29fdc3fbdc5930a10aba114050b82fe5a3e
+https://www.semanticscholar.org/paper/ef8d788a904ed66bd8e30ffa69bc3ea1fe57dda7
+https://simonwillison.net/2026/Sep/20/voxium/
+https://simonwillison.net/2026/Sep/20/llm-keys-ui/
