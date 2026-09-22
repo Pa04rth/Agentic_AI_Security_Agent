@@ -1134,3 +1134,16 @@ https://www.semanticscholar.org/paper/962dc29fdc3fbdc5930a10aba114050b82fe5a3e
 https://www.semanticscholar.org/paper/ef8d788a904ed66bd8e30ffa69bc3ea1fe57dda7
 https://simonwillison.net/2026/Sep/20/voxium/
 https://simonwillison.net/2026/Sep/20/llm-keys-ui/
+https://www.semanticscholar.org/paper/5c579f9889c506443b1498fe96ed73b164fee24b
+https://www.semanticscholar.org/paper/062f23984395c54b13479069487f976d7858f79b
+https://www.semanticscholar.org/paper/82af4e4311d2297b1ea1631d2c2f6a290446238d
+https://simonwillison.net/2026/Sep/21/jev/
+https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/
+https://openai.com/index/advisory-group-on-mathematics-and-ai
+https://openai.com/index/higgsfield-from-prompt-to-production-with-astra
+https://openai.com/index/building-standards-next-phase-ai
+https://openai.com/index/expanding-openai-academy-with-new-learning-paths
+https://arxiv.org/abs/2609.20824
+https://arxiv.org/abs/2609.20825
+https://arxiv.org/abs/2609.20826
+https://arxiv.org/abs/2609.20827
