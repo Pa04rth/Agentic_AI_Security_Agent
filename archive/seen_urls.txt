@@ -1165,3 +1165,15 @@ https://simonwillison.net/2026/Sep/22/llm-typesafe/
 https://openai.com/index/parallel-cuts-time-and-cost-with-astra
 https://arxiv.org/abs/2609.22090
 https://arxiv.org/abs/2609.22091
+https://www.semanticscholar.org/paper/a9a4e8e631890a14257539948e1813b5214c60dd
+https://www.semanticscholar.org/paper/644a33399711b31f8a5a1b464f6ffd7c2264fedc
+https://simonwillison.net/2026/Sep/23/gemini-tts-playground/
+https://simonwillison.net/2026/Sep/23/shadow-roots/
+https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/
+https://openai.com/index/two-years-of-openai-academy
+https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/
+https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense
+https://openai.com/index/sam-altman-un-security-council-remarks
+https://openai.com/index/harvey-from-context-to-confidence-with-astra
+https://openai.com/index/invideo-builds-with-gpt-6-astra
+https://openai.com/index/ringg
