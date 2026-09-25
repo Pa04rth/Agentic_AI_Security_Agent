@@ -1177,3 +1177,13 @@ https://openai.com/index/sam-altman-un-security-council-remarks
 https://openai.com/index/harvey-from-context-to-confidence-with-astra
 https://openai.com/index/invideo-builds-with-gpt-6-astra
 https://openai.com/index/ringg
+https://simonwillison.net/2026/Sep/24/commit-rewriter/
+https://simonwillison.net/2026/Sep/24/datasette/
+https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/
+https://arxiv.org/abs/2609.26913
+https://arxiv.org/abs/2609.26926
+https://arxiv.org/abs/2609.26942
+https://arxiv.org/abs/2609.26945
+https://arxiv.org/abs/2609.26976
+https://arxiv.org/abs/2609.27009
+https://arxiv.org/abs/2609.27032
