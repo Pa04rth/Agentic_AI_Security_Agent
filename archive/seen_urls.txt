@@ -1208,3 +1208,6 @@ https://openai.com/index/grab-openai-ai-skills-southeast-asia
 https://openai.com/index/priorities-principles-third-party-assessments
 https://openai.com/index/v7
 https://simonwillison.net/2026/Sep/26/kakapo-party/
+https://www.semanticscholar.org/paper/3066ab046d678c78ca0aab82da715ba16c769acf
+https://www.semanticscholar.org/paper/a959ab5900bc87df1b8ab8618b37d96bc8a4df3c
+https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/
