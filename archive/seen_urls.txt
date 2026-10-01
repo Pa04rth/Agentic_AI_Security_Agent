@@ -1234,3 +1234,13 @@ https://simonwillison.net/2026/Sep/29/hn-49898129/
 https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/
 https://openai.com/index/introducing-gpt-6-1-sol
 https://openai.com/index/devday-2026-recap
+https://simonwillison.net/2026/Sep/30/he-built-this-city/
+https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/
+https://deepmind.google/blog/introducing-synthid-bio/
+https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign
+https://openai.com/index/helping-small-businesses-put-ai-to-work
+https://arxiv.org/abs/2609.35791
+https://arxiv.org/abs/2609.35794
+https://arxiv.org/abs/2609.35796
+https://arxiv.org/abs/2609.35804
+https://arxiv.org/abs/2609.35805
