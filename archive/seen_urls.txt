@@ -1254,3 +1254,6 @@ https://arxiv.org/abs/2609.38205
 https://arxiv.org/abs/2609.38219
 https://arxiv.org/abs/2609.38222
 https://arxiv.org/abs/2609.38256
+https://openai.com/index/practical-guide-building-gpt-6
+https://arxiv.org/abs/2609.38260
+https://arxiv.org/abs/2609.38261
