@@ -1257,3 +1257,17 @@ https://arxiv.org/abs/2609.38256
 https://openai.com/index/practical-guide-building-gpt-6
 https://arxiv.org/abs/2609.38260
 https://arxiv.org/abs/2609.38261
+https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/
+https://simonwillison.net/2026/Oct/3/newsletter/
+https://simonwillison.net/2026/Oct/2/rex-s-dino-store/
+https://openai.com/index/chatham-financial
+https://openai.com/index/the-den-family-social
+https://simonwillison.net/2026/Sep/29/photo-scrubber/
+https://openai.com/index/introducing-dots
+https://openai.com/index/towards-safety-cases-for-frontier-ai-training
+https://openai.com/index/basis-tax-workbook-with-astra
+https://openai.com/form/codex-originals
+https://simonwillison.net/2026/Sep/27/hn-49871741/
+https://simonwillison.net/2026/Sep/27/bluesky-bot-check/
+https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/
+https://simonwillison.net/2026/Oct/3/newsletter/
