@@ -1271,3 +1271,5 @@ https://simonwillison.net/2026/Sep/27/hn-49871741/
 https://simonwillison.net/2026/Sep/27/bluesky-bot-check/
 https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/
 https://simonwillison.net/2026/Oct/3/newsletter/
+https://www.semanticscholar.org/paper/2f6f6c21500211dedf84392c0ae4e9aa12228230
+https://www.semanticscholar.org/paper/0173d15fb37ee48addf0a33a6a4ad486a9c58977
