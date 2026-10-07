@@ -1292,3 +1292,16 @@ https://arxiv.org/abs/2610.02455
 https://arxiv.org/abs/2610.02460
 https://arxiv.org/abs/2610.02472
 https://arxiv.org/abs/2610.02486
+https://www.semanticscholar.org/paper/33d05a1ff5f15bdc60fc43fa8523a4888af5f116
+https://www.semanticscholar.org/paper/854c5480cbb67ae0558d81ce1a25a6778a1b84df
+https://www.semanticscholar.org/paper/9d07c06fb16d64056472612d9bfaa68e8ee7a249
+https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/
+https://simonwillison.net/2026/Oct/6/victoria-kim/
+https://simonwillison.net/2026/Oct/6/llm-openai-decisions/
+https://simonwillison.net/2026/Oct/6/llm-mistral/
+https://simonwillison.net/2026/Oct/6/hn-49983751/
+https://simonwillison.net/2026/Oct/6/le-chonk/
+https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/
+https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/
+https://simonwillison.net/2026/Oct/6/hn-49982139/
+https://simonwillison.net/2026/Oct/6/datasette-atom/
