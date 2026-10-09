@@ -1325,3 +1325,13 @@ https://arxiv.org/abs/2610.06889
 https://arxiv.org/abs/2610.06897
 https://arxiv.org/abs/2610.06902
 https://arxiv.org/abs/2610.06903
+https://simonwillison.net/2026/Oct/8/ttok/
+https://simonwillison.net/2026/Oct/8/carson-gross/
+https://openai.com/index/oracle
+https://openai.com/index/pollo-ai
+https://openai.com/index/legalon-halves-codex-costs
+https://arxiv.org/abs/2610.08794
+https://arxiv.org/abs/2610.08827
+https://arxiv.org/abs/2610.08828
+https://arxiv.org/abs/2610.08829
+https://arxiv.org/abs/2610.08833
