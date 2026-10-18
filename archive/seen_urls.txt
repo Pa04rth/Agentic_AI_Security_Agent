@@ -1464,3 +1464,11 @@ https://arxiv.org/abs/2610.20632
 https://arxiv.org/abs/2610.20633
 https://arxiv.org/abs/2610.20634
 https://arxiv.org/abs/2610.20635
+https://openai.com/index/benefit-street-partners
+https://openai.com/index/stack-overflow-chatgpt-plugin
+https://simonwillison.net/2026/Oct/15/latex/
+https://openai.com/index/sullivan-cromwell
+https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic
+https://simonwillison.net/2026/Oct/13/web-edit/
+https://simonwillison.net/2026/Oct/12/llm-meta-ai/
+https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/
