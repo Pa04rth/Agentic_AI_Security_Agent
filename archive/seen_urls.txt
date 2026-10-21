@@ -1514,3 +1514,11 @@ https://arxiv.org/abs/2610.22511
 https://arxiv.org/abs/2610.22515
 https://arxiv.org/abs/2610.22518
 https://arxiv.org/abs/2610.22525
+https://www.semanticscholar.org/paper/eb0f582988f141a92127333a2c66e2224c39aeef
+https://www.semanticscholar.org/paper/37725ac03fea324221f4bf2e437a940c3745141c
+https://www.semanticscholar.org/paper/152f961c437615f6fc220bfc54395a7313a0d992
+https://www.semanticscholar.org/paper/e9a82d33ce0f75def10f1f1e7d9d20345af55804
+https://simonwillison.net/2026/Oct/20/emudhra-certificates/
+https://simonwillison.net/2026/Oct/20/battledrones/
+https://openai.com/index/ted-taylor-restaurant
+https://openai.com/index/terminal-x
