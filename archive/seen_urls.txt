@@ -1522,3 +1522,13 @@ https://simonwillison.net/2026/Oct/20/emudhra-certificates/
 https://simonwillison.net/2026/Oct/20/battledrones/
 https://openai.com/index/ted-taylor-restaurant
 https://openai.com/index/terminal-x
+https://openai.com/index/broad-access-through-consistent-standards
+https://simonwillison.net/2026/Oct/21/php-security-release/
+https://openai.com/index/att-legal
+https://simonwillison.net/2026/Oct/21/panache/
+https://openai.com/index/chatgpt-ads-expands-26-new-countries
+https://openai.com/index/openai-models-google-cloud
+https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities
+https://openai.com/index/building-chatgpt-ad-stack
+https://openai.com/index/scaling-ai-research-for-complex-biological-data
+https://arxiv.org/abs/2610.26864
