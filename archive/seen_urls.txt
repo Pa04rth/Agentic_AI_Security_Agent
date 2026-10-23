@@ -1532,3 +1532,15 @@ https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities
 https://openai.com/index/building-chatgpt-ad-stack
 https://openai.com/index/scaling-ai-research-for-complex-biological-data
 https://arxiv.org/abs/2610.26864
+https://www.semanticscholar.org/paper/24b8a0b02bcb7934967757fc59d273a71ba67e30
+https://www.semanticscholar.org/paper/098ab44dae4a2d20b125ac83afccc4b7af6752a6
+https://simonwillison.net/2026/Oct/22/de-staat-freedom/
+https://openai.com/index/decisions-api
+https://simonwillison.net/2026/Oct/22/donating-agent-skills/
+https://simonwillison.net/2026/Oct/22/armin-ronacher/
+https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/
+https://openai.com/index/forward-deployed-engineering-means
+https://arxiv.org/abs/2610.28673
+https://arxiv.org/abs/2610.28710
+https://arxiv.org/abs/2610.28767
+https://arxiv.org/abs/2610.28772
