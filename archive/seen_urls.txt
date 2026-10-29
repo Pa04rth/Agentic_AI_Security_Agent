@@ -1617,3 +1617,14 @@ https://arxiv.org/abs/2610.33004
 https://arxiv.org/abs/2610.33005
 https://arxiv.org/abs/2610.33006
 https://arxiv.org/abs/2610.33007
+https://www.semanticscholar.org/paper/bd9ab344da99022cbbbfd3f5c9c82a0b21c60ad9
+https://simonwillison.net/2026/Oct/28/ted-sanders/
+https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/
+https://simonwillison.net/2026/Oct/28/github-octoverse-2026/
+https://simonwillison.net/2026/Oct/28/vibe-game-development/
+https://openai.com/index/openai-servicenow-partnership-expansion
+https://simonwillison.net/2026/Oct/28/terk-terkowitz/
+https://openai.com/index/the-future-of-the-firm
+https://openai.com/index/legora
+https://arxiv.org/abs/2610.35925
+https://arxiv.org/abs/2610.36006
