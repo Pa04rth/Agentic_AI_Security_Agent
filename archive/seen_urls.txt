@@ -1628,3 +1628,13 @@ https://openai.com/index/the-future-of-the-firm
 https://openai.com/index/legora
 https://arxiv.org/abs/2610.35925
 https://arxiv.org/abs/2610.36006
+https://www.semanticscholar.org/paper/83f3d93161f5651e3999fadcbe1d6f1886683299
+https://www.semanticscholar.org/paper/d7971754f32c5b0e9af48411c43b818147ca7cc9
+https://www.semanticscholar.org/paper/cc362b50e22b54a33cdce4b3a1353a73526f5828
+https://www.semanticscholar.org/paper/fa8894ee2521759fc836944d7b01809daceef838
+https://simonwillison.net/2026/Oct/29/api-credits/
+https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/
+https://openai.com/index/updated-model-spec
+https://simonwillison.net/2026/Oct/29/ben-hylak/
+https://openai.com/index/how-we-detect-frontier-model-misalignment
+https://openai.com/index/ropes-gray-ai-diligence
