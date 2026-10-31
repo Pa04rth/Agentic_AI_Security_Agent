@@ -1638,3 +1638,14 @@ https://openai.com/index/updated-model-spec
 https://simonwillison.net/2026/Oct/29/ben-hylak/
 https://openai.com/index/how-we-detect-frontier-model-misalignment
 https://openai.com/index/ropes-gray-ai-diligence
+https://www.semanticscholar.org/paper/5d53433f81a327c171f0a1c73e29596a1c8c38ad
+https://www.semanticscholar.org/paper/df9147f821bf439dbcd382e5adb70c38d6f019c8
+https://www.semanticscholar.org/paper/6003c6e6ae08851f1e7ff55b8fe56ceaa09957c1
+https://www.semanticscholar.org/paper/9c7a2cd13b783bb73ad2d1ec2880bdd9b995cbdc
+https://www.semanticscholar.org/paper/454304628bf10f02aba1c2cfc95891e94d09208e
+https://www.semanticscholar.org/paper/aaac16bedfd0894b2b62cd7127339862365cfb0c
+https://www.semanticscholar.org/paper/d15d96517370c9ed0658d176b979bcf92d1373ea
+https://www.semanticscholar.org/paper/4fd13f5ff417fcdd44f530006c7391c5d88877dd
+https://simonwillison.net/2026/Oct/30/nesformer/
+https://openai.com/index/helping-websites-express-ai-training-preferences
+https://openai.com/index/community-safety-report-and-new-protections-for-teens
