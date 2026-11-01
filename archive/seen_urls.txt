@@ -1649,3 +1649,12 @@ https://www.semanticscholar.org/paper/4fd13f5ff417fcdd44f530006c7391c5d88877dd
 https://simonwillison.net/2026/Oct/30/nesformer/
 https://openai.com/index/helping-websites-express-ai-training-preferences
 https://openai.com/index/community-safety-report-and-new-protections-for-teens
+https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/
+https://simonwillison.net/2026/Oct/31/datasette-llm/
+https://openai.com/index/fair-use-benefits-everyone
+https://openai.com/index/credit-saison
+https://openai.com/index/check-point-daybreak
+https://openai.com/index/introducing-gpt-6-1-terra
+https://simonwillison.net/2026/Oct/25/seam-cutter/
+https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/
+https://simonwillison.net/2026/Oct/31/datasette-llm/
