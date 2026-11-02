@@ -1658,3 +1658,12 @@ https://openai.com/index/introducing-gpt-6-1-terra
 https://simonwillison.net/2026/Oct/25/seam-cutter/
 https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/
 https://simonwillison.net/2026/Oct/31/datasette-llm/
+https://www.semanticscholar.org/paper/be8cb756a29fd7156815d860533cbb5c0cb93015
+https://www.semanticscholar.org/paper/85e3fb590ceb88ceb8842c9ab48bf3f0238139b4
+https://www.semanticscholar.org/paper/22ae86c4396a784761c722369b211d1516d1d224
+https://www.semanticscholar.org/paper/0734e6d51c84da7ee1b54028910a046f520c0a23
+https://www.semanticscholar.org/paper/ceb0777788c55dda765bbd22ebcfd5840acac2b8
+https://www.semanticscholar.org/paper/1c59c68c8bdc917fea22dcdc6aa9d277778727ff
+https://www.semanticscholar.org/paper/beb456d0f8f83d08a3d49e47765963ba85cbd324
+https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/
+https://simonwillison.net/2026/Nov/1/kyle-kingsbury/
