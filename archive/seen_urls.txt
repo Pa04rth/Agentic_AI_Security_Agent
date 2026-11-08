@@ -1755,3 +1755,17 @@ https://arxiv.org/abs/2611.07072
 https://arxiv.org/abs/2611.07111
 https://arxiv.org/abs/2611.07113
 https://arxiv.org/abs/2611.07126
+https://simonwillison.net/2026/Nov/7/link-rel-next/
+https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science
+https://openai.com/index/setting-new-standard-responsible-ai-infrastructure
+https://openai.com/ads/customers/flipsnack
+https://openai.com/index/franklin-templeton
+https://simonwillison.net/2026/Nov/4/datasette-apps/
+https://openai.com/index/introducing-images-2-6
+https://openai.com/index/devrev-enterprise-self-service
+https://simonwillison.net/2026/Nov/3/datasette-agent/
+https://simonwillison.net/2026/Nov/3/llm/
+https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer
+https://openai.com/index/dan-driscoll-joins-openai
+https://openai.com/index/qodo-codex-plugin
+https://simonwillison.net/2026/Nov/7/link-rel-next/
