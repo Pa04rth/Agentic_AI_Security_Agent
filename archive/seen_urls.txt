@@ -1769,3 +1769,12 @@ https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer
 https://openai.com/index/dan-driscoll-joins-openai
 https://openai.com/index/qodo-codex-plugin
 https://simonwillison.net/2026/Nov/7/link-rel-next/
+https://www.semanticscholar.org/paper/1e0b25dc4be9a9a25571e810aa445223ad66f868
+https://www.semanticscholar.org/paper/e0801f02812f8d602cdcdac1226e176befeeba8c
+https://www.semanticscholar.org/paper/4930debdb86bc1828ccc391ed5d007ba8c0b0397
+https://www.semanticscholar.org/paper/9788b5915d38f0007379a57352e91f1abe2c0c01
+https://www.semanticscholar.org/paper/8c1aa28c0018fbb3ec270b3ed5e7ee0df6771d33
+https://www.semanticscholar.org/paper/28727e96023b06a8f1b3fa43730e512b07516317
+https://www.semanticscholar.org/paper/b7750e07680b2b6f44516207f4556f87ae2692dd
+https://www.semanticscholar.org/paper/a889a606734cd47f802765866487c677497a70d6
+https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/
