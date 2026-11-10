@@ -1778,3 +1778,15 @@ https://www.semanticscholar.org/paper/28727e96023b06a8f1b3fa43730e512b07516317
 https://www.semanticscholar.org/paper/b7750e07680b2b6f44516207f4556f87ae2692dd
 https://www.semanticscholar.org/paper/a889a606734cd47f802765866487c677497a70d6
 https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/
+https://www.semanticscholar.org/paper/e169d318ec02589277d967c91c30891631084923
+https://www.semanticscholar.org/paper/02251886950770e82b3d68564d60cdfe15e73199
+https://simonwillison.net/2026/Nov/9/llm-anthropic/
+https://simonwillison.net/2026/Nov/9/mysterious-beeps/
+https://openai.com/index/chatgpt-enterprise-aws-marketplace
+https://openai.com/index/control-room
+http://bair.berkeley.edu/blog/2026/11/09/bair-at-corl-2026/
+https://openai.com/index/coderabbit-codex-daybreak
+https://openai.com/index/kuken
+https://arxiv.org/abs/2611.08639
+https://arxiv.org/abs/2611.08643
+https://arxiv.org/abs/2611.08683
