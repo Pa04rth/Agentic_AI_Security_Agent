@@ -1800,3 +1800,12 @@ https://openai.com/index/closing-ai-guidance-gap-education
 https://simonwillison.net/2026/Nov/10/muse-ember/
 https://openai.com/index/ai-effect-on-freelance-work
 https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/
+https://simonwillison.net/2026/Nov/11/gemini-decisions-api/
+https://simonwillison.net/2026/Nov/11/aws-emulator/
+https://simonwillison.net/2026/Nov/11/tools-tags/
+https://simonwillison.net/2026/Nov/11/llm/
+https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/
+https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/
+https://openai.com/index/chatgpt-plus-for-veterans
+https://arxiv.org/abs/2611.12900
+https://arxiv.org/abs/2611.12901
