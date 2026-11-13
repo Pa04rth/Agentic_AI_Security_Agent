@@ -1809,3 +1809,8 @@ https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-bet
 https://openai.com/index/chatgpt-plus-for-veterans
 https://arxiv.org/abs/2611.12900
 https://arxiv.org/abs/2611.12901
+https://simonwillison.net/2026/Nov/12/llm-gemini/
+https://openai.com/business/customer-stories/amplitude
+https://deepmind.google/blog/introducing-gemini-4-hydrogen/
+https://openai.com/business/customer-stories/gondola
+https://openai.com/business/customer-stories/holidays-extras-codex
