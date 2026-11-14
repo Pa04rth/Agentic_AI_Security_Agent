@@ -1814,3 +1814,7 @@ https://openai.com/business/customer-stories/amplitude
 https://deepmind.google/blog/introducing-gemini-4-hydrogen/
 https://openai.com/business/customer-stories/gondola
 https://openai.com/business/customer-stories/holidays-extras-codex
+https://simonwillison.net/2026/Nov/13/datasette-cluster-map/
+https://simonwillison.net/2026/Nov/13/datasette-leaflet/
+https://openai.com/index/introducing-chatgpt-wallet
+https://openai.com/business/customer-stories/shield
