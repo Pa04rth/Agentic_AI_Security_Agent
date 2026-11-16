@@ -1829,3 +1829,10 @@ https://openai.com/index/cogent-security
 https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/
 https://simonwillison.net/2026/Nov/14/datasette-llm/
 https://simonwillison.net/2026/Nov/14/datasette-vega/
+https://simonwillison.net/2026/Nov/15/datasette-maplibre/
+https://simonwillison.net/2026/Nov/15/datasette/
+https://simonwillison.net/2026/Nov/15/datasette-2/
+https://openai.com/index/step-toward-defining-the-standard-model
+https://openai.com/index/our-new-blog-for-science
+https://simonwillison.net/2026/Nov/15/datasette-apps/
+https://simonwillison.net/2026/Nov/15/datasette-agent/
