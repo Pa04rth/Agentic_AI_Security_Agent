@@ -1844,3 +1844,9 @@ https://openai.com/index/lvmh-media-division-partnership
 https://openai.com/index/our-first-phase-of-embedded-assessments
 https://openai.com/index/advancing-computer-use-for-healthcare-teams
 https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare
+https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/
+https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/
+https://openai.com/index/introducing-gpt-6-2-astra-sol
+https://simonwillison.net/2026/Nov/17/datasette-lite/
+https://openai.com/index/introducing-chatgpt-for-sales
+https://simonwillison.net/2026/Nov/17/go-proverbs/
