@@ -1850,3 +1850,14 @@ https://openai.com/index/introducing-gpt-6-2-astra-sol
 https://simonwillison.net/2026/Nov/17/datasette-lite/
 https://openai.com/index/introducing-chatgpt-for-sales
 https://simonwillison.net/2026/Nov/17/go-proverbs/
+https://www.semanticscholar.org/paper/a541b67926de2e0964cb1f3922e2d5dc54d26b28
+https://deepmind.google/blog/introducing-gemini-4-neon/
+https://deepmind.google/blog/genie-4-is-now-available/
+https://simonwillison.net/2026/Nov/18/datasette-arrows/
+https://simonwillison.net/2026/Nov/18/daniel-stenberg/
+https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/
+https://openai.com/index/the-silent-consensus
+https://openai.com/index/research-acceleration-jagged-frontier
+https://openai.com/business/customer-stories/sumitomo-life
+https://openai.com/index/inside-the-codex-sandbox
+https://openai.com/index/managing-frontier-ai-risk
