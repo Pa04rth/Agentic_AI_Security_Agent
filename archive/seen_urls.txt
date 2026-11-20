@@ -1861,3 +1861,15 @@ https://openai.com/index/research-acceleration-jagged-frontier
 https://openai.com/business/customer-stories/sumitomo-life
 https://openai.com/index/inside-the-codex-sandbox
 https://openai.com/index/managing-frontier-ai-risk
+https://www.semanticscholar.org/paper/8bd76176dead25d2778a43aa4c9e14827b24049d
+https://www.semanticscholar.org/paper/ef02e4a19f0c1aa43eb80a802fde3cfda206b547
+https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/
+https://simonwillison.net/2026/Nov/19/postgresql-19/
+https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast
+https://arxiv.org/abs/2611.21622
+https://arxiv.org/abs/2611.21641
+https://arxiv.org/abs/2611.21643
+https://arxiv.org/abs/2611.21644
+https://arxiv.org/abs/2611.21646
+https://arxiv.org/abs/2611.21647
+https://arxiv.org/abs/2611.21648
