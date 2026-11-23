@@ -1906,3 +1906,6 @@ https://openai.com/index/strengthening-nato-allied-cyber-defences-ai
 https://openai.com/index/astra-law-6-2
 https://openai.com/index/introducing-openai-for-chile
 https://simonwillison.net/2026/Nov/21/muru/
+https://www.semanticscholar.org/paper/04c683e4eb0a5b66d429851fd0eb1f0bbeea4eaa
+https://www.semanticscholar.org/paper/3b2c63b63478d192543bdfb7df7d9a4e1b8d3950
+https://simonwillison.net/2026/Nov/22/select-styling/
