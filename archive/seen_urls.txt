@@ -1909,3 +1909,16 @@ https://simonwillison.net/2026/Nov/21/muru/
 https://www.semanticscholar.org/paper/04c683e4eb0a5b66d429851fd0eb1f0bbeea4eaa
 https://www.semanticscholar.org/paper/3b2c63b63478d192543bdfb7df7d9a4e1b8d3950
 https://simonwillison.net/2026/Nov/22/select-styling/
+https://www.semanticscholar.org/paper/fa4389beb1ad084ef5658d6660a3a7c48359e7fc
+https://www.semanticscholar.org/paper/60c792ed60fdd82aa31ba3306ed67f482ed96758
+https://www.semanticscholar.org/paper/cdcfeb447fa8554c131c0a13a7ffcba30c0381e1
+https://www.semanticscholar.org/paper/779d37020e04200a355873cca232f8a2d94679b0
+https://www.semanticscholar.org/paper/c84d67e7d297a6c79da178a18d49613bb4179d70
+https://simonwillison.net/2026/Nov/24/datasette-charts/
+https://simonwillison.net/2026/Nov/24/datasette-agent/
+https://simonwillison.net/2026/Nov/23/glm-54/
+https://simonwillison.net/2026/Nov/23/ladybird/
+https://openai.com/index/introducing-shirudo
+https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/
+https://openai.com/business/learn/connected-intelligence-for-in-house-legal
+https://openai.com/business/customer-stories/richpanel-ai-customer-support
