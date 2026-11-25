@@ -1922,3 +1922,17 @@ https://openai.com/index/introducing-shirudo
 https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/
 https://openai.com/business/learn/connected-intelligence-for-in-house-legal
 https://openai.com/business/customer-stories/richpanel-ai-customer-support
+https://www.semanticscholar.org/paper/aa02859e433c4ab01fba1405b0a90e19dea9bf7e
+https://www.semanticscholar.org/paper/f872caea11a75c589f734c73aba90c4bfcf9ecf9
+https://www.semanticscholar.org/paper/e89ed6bb1864558e3889f5f2fb8931643c633479
+https://www.semanticscholar.org/paper/4f16bd1771a65f9ceb2b5e07f7c29b58d62e6f8f
+https://www.semanticscholar.org/paper/687890fb11db3e1502113a2021c39f3d5416ba8f
+https://www.semanticscholar.org/paper/9840158bdcdd1b48877d50fe711365e3f4d6aca7
+https://www.semanticscholar.org/paper/d8e9f8c8a37cb4cd26b92ad0d942d641cd512644
+https://www.semanticscholar.org/paper/714bb3e0c524c040c5426b0d65c805356d26e931
+https://www.semanticscholar.org/paper/2004e5195383a8b9ee42bd2c7e77fd99d73d13fc
+https://www.semanticscholar.org/paper/b441b075d78b853b7f5ea50fc4e89b94b1ec613e
+https://simonwillison.net/2026/Nov/24/llm-inflection-points/
+https://simonwillison.net/2026/Nov/24/astra-historical-mystery/
+https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities
+https://openai.com/index/searching-for-distant-planets-with-astra
